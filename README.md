@@ -1,53 +1,73 @@
-# CodeAlpha Internship Tasks
+Task 2 – Exploratory Data Analysis (EDA)
+Project: Netflix Movies and TV Shows
 
-This repository contains my completed tasks for the CodeAlpha Internship.
+This project performs Exploratory Data Analysis on the Netflix Movies and TV Shows dataset.
 
-## Tasks Completed
+Objectives
+Understand the structure of the dataset.
+Explore different variables and data types.
+Analyze missing values.
+Check duplicate records.
+Identify trends and patterns.
+Detect potential anomalies.
+Perform descriptive statistical analysis.
+Generate meaningful insights.
+Analysis Performed
 
-### Task 2 – Exploratory Data Analysis (EDA)
+The project includes:
 
-The Task 2 project performs Exploratory Data Analysis on the Netflix Movies and TV Shows dataset.
+Dataset inspection
+Data types analysis
+Statistical summary
+Missing-value analysis
+Duplicate analysis
+Content type analysis
+Release-year analysis
+Rating analysis
+Country analysis
+Genre analysis
+Duration analysis
+Anomaly detection
+Correlation analysis
+Data visualization
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Google Colab
 
-The analysis includes:
+Task 3 – Data Visualization
+Project: Titanic Dataset – Data Visualization and Insights
 
-* Understanding the dataset structure
-* Exploring variables and data types
-* Checking missing values and duplicates
-* Identifying trends and patterns
-* Detecting anomalies
-* Statistical analysis
-* Data visualization
-* Generating meaningful insights
+This project focuses on transforming raw data into meaningful visualizations using Python.
 
-File:
-`CodeAlpha_Task2_EDA.ipynb`
+The Titanic dataset was explored to understand passenger characteristics and survival-related patterns.
 
-### Task 3 – Data Visualization
+Visualizations
 
-The Task 3 project focuses on transforming data into meaningful visualizations using Python.
+The project includes visualizations such as:
 
-Libraries used:
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-
-The project includes different charts and visualizations to identify patterns and communicate insights clearly.
-
-File:
-`CodeAlpha_Task3_Data_Visualization.ipynb`
-
-## Tools Used
-
-* Python
-* Google Colab
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* GitHub
-
-## Internship
-
-CodeAlpha Internship – Data Science / Data Analysis Tasks
+Survival count
+Survival by gender
+Survival by passenger class
+Age distribution
+Fare distribution
+Age versus fare analysis
+Fare distribution by passenger class
+Correlation analysis
+Key Areas Explored
+Passenger survival
+Gender
+Passenger class
+Age
+Fare
+Relationships between numerical variables
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Google Colab
